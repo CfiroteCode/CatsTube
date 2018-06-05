@@ -1,0 +1,21 @@
+.video div p a img{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto auto;  
+    min-height: 480px;
+    max-height: 100%;
+    max-width: 100%;   
+}
+.vote, .titre{
+    font-size: 1.5em;
+}
+
+.vote{
+    color: grey;
+}
+.space{
+    display: inline-block;
+    width: 30px;
+}

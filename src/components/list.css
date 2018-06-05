@@ -1,0 +1,11 @@
+
+.list div p a img{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto auto;  
+    max-height: 100%;
+    max-width: 100%;   
+}
