@@ -8,4 +8,4 @@ this app is a YouTube like platefomr with gif, image, title and commentary of ca
 they are all generated (everything change loading of the page)
 
 exemple :
-![image](capture.jpg)
+![image](capture.JPG)
